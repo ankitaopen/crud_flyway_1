@@ -1,0 +1,2 @@
+ALTER TABLE REGISTRATION_USERS
+ADD COLUMN mobile_number varchar(50);

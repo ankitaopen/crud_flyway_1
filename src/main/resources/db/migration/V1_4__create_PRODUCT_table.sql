@@ -1,0 +1,6 @@
+--CREATE TABLE PRODUCT(
+--productId integer PRIMARY KEY NOT NULL,
+--productName char(20) NOT NULL,
+--productPrice varchar(20) NOT NULL,
+--productQuantity integer NOT NULL
+--);
